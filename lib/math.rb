@@ -29,5 +29,5 @@ end
 
 def square_root(num)
   num**
-math.sqrt(9)
+puts math.sqrt(9)
 end
