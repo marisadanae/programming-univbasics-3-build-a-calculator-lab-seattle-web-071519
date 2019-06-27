@@ -28,6 +28,4 @@ puts modulo(34, 5)
 end
 
 def square_root(num)
-math.sqrt(num)
-puts square_root(9)
 end
